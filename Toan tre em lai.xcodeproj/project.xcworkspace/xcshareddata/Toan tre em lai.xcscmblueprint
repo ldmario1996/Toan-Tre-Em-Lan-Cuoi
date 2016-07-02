@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2A9FE07B4AD7C92E0DF4C7D8F2802607CD25A425",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2A9FE07B4AD7C92E0DF4C7D8F2802607CD25A425" : 0,
+    "150271DBBAE221DFDDBB2FD3B088F7C5E86A409A" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1835431B-35AD-40A5-80AF-54C4ECABA9EE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2A9FE07B4AD7C92E0DF4C7D8F2802607CD25A425" : "Toan-tre-em-lai-c436e90e9d816d8893d9d15439d5b38f31701319\/",
+    "150271DBBAE221DFDDBB2FD3B088F7C5E86A409A" : "Toan-tre-em-lai-c436e90e9d816d8893d9d15439d5b38f31701319\/Toan%20tre%20em%20lai\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Toan tre em lai",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Toan tre em lai.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ldmario1996\/MathForKids.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "150271DBBAE221DFDDBB2FD3B088F7C5E86A409A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ldmario1996\/MathForKids.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2A9FE07B4AD7C92E0DF4C7D8F2802607CD25A425"
+    }
+  ]
+}

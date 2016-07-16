@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		026D8CF01D38CFBB00A5F1F8 /* VMP3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 026D8CEF1D38CFBB00A5F1F8 /* VMP3.swift */; };
+		026D8CF21D38CFD000A5F1F8 /* VLogin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 026D8CF11D38CFD000A5F1F8 /* VLogin.swift */; };
+		026D8CF41D38D14A00A5F1F8 /* zing-mp3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 026D8CF31D38D14A00A5F1F8 /* zing-mp3.jpg */; };
+		026D8CF61D38D3FA00A5F1F8 /* sky background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 026D8CF51D38D3FA00A5F1F8 /* sky background.jpg */; };
 		B02C30A11D18E8C80053B70B /* board.png in Resources */ = {isa = PBXBuildFile; fileRef = B02C309C1D18E8C80053B70B /* board.png */; };
 		B02C30A21D18E8C80053B70B /* Cartoon-Springs-PPT-Backgrounds-1024x768.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B02C309D1D18E8C80053B70B /* Cartoon-Springs-PPT-Backgrounds-1024x768.jpg */; };
 		B02C30A31D18E8C80053B70B /* note1.png in Resources */ = {isa = PBXBuildFile; fileRef = B02C309E1D18E8C80053B70B /* note1.png */; };
@@ -20,6 +24,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		026D8CEF1D38CFBB00A5F1F8 /* VMP3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VMP3.swift; sourceTree = "<group>"; };
+		026D8CF11D38CFD000A5F1F8 /* VLogin.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VLogin.swift; sourceTree = "<group>"; };
+		026D8CF31D38D14A00A5F1F8 /* zing-mp3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "zing-mp3.jpg"; sourceTree = "<group>"; };
+		026D8CF51D38D3FA00A5F1F8 /* sky background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "sky background.jpg"; sourceTree = "<group>"; };
 		B02C309C1D18E8C80053B70B /* board.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = board.png; sourceTree = "<group>"; };
 		B02C309D1D18E8C80053B70B /* Cartoon-Springs-PPT-Backgrounds-1024x768.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Cartoon-Springs-PPT-Backgrounds-1024x768.jpg"; sourceTree = "<group>"; };
 		B02C309E1D18E8C80053B70B /* note1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = note1.png; sourceTree = "<group>"; };
@@ -64,6 +72,8 @@
 		B07D2D5A1D17982000CCB385 /* Toan tre em lai */ = {
 			isa = PBXGroup;
 			children = (
+				026D8CF51D38D3FA00A5F1F8 /* sky background.jpg */,
+				026D8CF31D38D14A00A5F1F8 /* zing-mp3.jpg */,
 				B02C309C1D18E8C80053B70B /* board.png */,
 				B02C309D1D18E8C80053B70B /* Cartoon-Springs-PPT-Backgrounds-1024x768.jpg */,
 				B02C309E1D18E8C80053B70B /* note1.png */,
@@ -71,6 +81,8 @@
 				B02C30A01D18E8C80053B70B /* note3.png */,
 				B07D2D5B1D17982000CCB385 /* AppDelegate.swift */,
 				B07D2D5D1D17982000CCB385 /* ViewController.swift */,
+				026D8CEF1D38CFBB00A5F1F8 /* VMP3.swift */,
+				026D8CF11D38CFD000A5F1F8 /* VLogin.swift */,
 				B07D2D5F1D17982100CCB385 /* Main.storyboard */,
 				B07D2D621D17982100CCB385 /* Assets.xcassets */,
 				B07D2D641D17982100CCB385 /* LaunchScreen.storyboard */,
@@ -141,7 +153,9 @@
 				B07D2D661D17982100CCB385 /* LaunchScreen.storyboard in Resources */,
 				B02C30A11D18E8C80053B70B /* board.png in Resources */,
 				B07D2D631D17982100CCB385 /* Assets.xcassets in Resources */,
+				026D8CF41D38D14A00A5F1F8 /* zing-mp3.jpg in Resources */,
 				B02C30A21D18E8C80053B70B /* Cartoon-Springs-PPT-Backgrounds-1024x768.jpg in Resources */,
+				026D8CF61D38D3FA00A5F1F8 /* sky background.jpg in Resources */,
 				B02C30A51D18E8C80053B70B /* note3.png in Resources */,
 				B07D2D611D17982100CCB385 /* Main.storyboard in Resources */,
 				B02C30A31D18E8C80053B70B /* note1.png in Resources */,
@@ -157,6 +171,8 @@
 			files = (
 				B07D2D5E1D17982000CCB385 /* ViewController.swift in Sources */,
 				B07D2D5C1D17982000CCB385 /* AppDelegate.swift in Sources */,
+				026D8CF21D38CFD000A5F1F8 /* VLogin.swift in Sources */,
+				026D8CF01D38CFBB00A5F1F8 /* VMP3.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

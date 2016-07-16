@@ -27,10 +27,13 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         let timer = NSTimer.scheduledTimerWithTimeInterval(1, target: self, selector: Selector("countdown"), userInfo: nil, repeats: true)
+        
         randomGenerator()
         button1.setBackgroundImage(UIImage(named: "note1.png"), forState: .Normal)
         button2.setBackgroundImage(UIImage(named: "note2.png"), forState: .Normal)
         button3.setBackgroundImage(UIImage(named: "note3.png"), forState: .Normal)
+        self.navigationItem.setHidesBackButton(true, animated: false)
+        self.navigationController?.navigationBarHidden = true
         // Do any additional setup after loading the view, typically from a nib.
     }
     @IBOutlet weak var timeNumber: UILabel!
